@@ -1,2 +1,2 @@
 # Ignore folder name 'build'
-build/
+/build/*
